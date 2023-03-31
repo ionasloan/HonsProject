@@ -1,0 +1,138 @@
+/* all */
+
+html {
+  scroll-behavior: smooth;
+}
+
+h4.heading {
+  font-family: 'Amatic SC';
+  color: #FFFFFF;
+  font-size: 35px;
+  padding-bottom: 10px;
+  text-align: center
+}
+
+/* navigation styles */
+.navbar-brand,
+.nav-item,
+.nav-link {
+  font-family: 'Amatic SC';
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+}
+
+/* bio styling */
+#bio {
+  padding: 20px;
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+h3 {
+  font-family: 'Amatic SC';
+}
+
+#extra {
+  font-family: 'Abel';
+}
+
+
+/* tour styling */
+
+#tour {
+  padding: 20px;
+
+}
+
+.row {
+  border-radius: 10px;
+}
+
+.col {
+  font-family: 'Abel';
+  background-color: #000000;
+  margin-bottom: 10px;
+  color: #FFFFFF;
+  padding: 10px;
+  text-align: center;
+  font-size: 1.8vh;
+
+}
+
+.btn-primary {
+  font-size: 1.8vh;
+}
+
+
+/* music styling */
+h5,
+p {
+  font-family: 'Abel';
+}
+
+.card {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+#music {
+  background: #000000;
+  padding: 40px 40px 40px 40px;
+}
+
+.albumOne,
+.albumTwo {
+  border-radius: 4px;
+  width: 100%;
+ 
+}
+
+.card{
+  margin-left: 50px;
+}
+
+
+
+
+/* Subscribe */
+
+h4.heading-sub {
+  font-family: 'Amatic SC';
+  color: #000000;
+  font-size: 35px;
+  padding-bottom: 10px;
+  text-align: center
+}
+
+#subscribe {
+  padding: 5%;
+}
+
+.container-sub {
+  background-color: #FFFFFF;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+label,
+button,
+small {
+  font-family: 'Abel';
+}
+
+
+
+/* Footer Styling */
+
+footer {
+  color: #FFFFFF;
+  background-color: #000000;
+  padding-top: 2%;
+}
+
+.fa {
+  color: #FFFFFF;
+  padding-left: 10px;
+
+}
